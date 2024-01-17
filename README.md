@@ -11,8 +11,8 @@ status: 202,
 };
 
 -->
-
-<ul> - My skills is:
+### My skills is:
+<ul> 
   <li>HTML5</li>
    <li>CSS3</li>
    <li>JQuery</li>
@@ -22,6 +22,7 @@ status: 202,
    <li>MySQL</li>
 </ul> 
 - 🌱 I’m currently learning Vue js
+
 ## My Activity:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&theme=dracula)
 
