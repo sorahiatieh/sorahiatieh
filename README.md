@@ -1,13 +1,5 @@
 ### Hi there 👋
-const info={
-  status: 202,
-  data:{
-    firstName: "Atieh",
-    lastName: "Sorahi Talab",
-    birthday: "1982",
-    skills: "HTML5, CSS3, JQuery, Javascript, Bootstrap, PHP, MySQL"
-  }
-};
+
 
 ## My Activity:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&theme=dracula)
