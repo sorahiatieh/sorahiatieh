@@ -1,4 +1,4 @@
-### Hi there My Name is Atieh Sorahi Talab👋
+### Hi there 👋 My Name is Atieh Sorahi Talab
 
 - 🌱 I’m currently learning Vue js
 - 👯 I’m looking to collaborate on Fullstack Developer(Vue.js / PHP)
