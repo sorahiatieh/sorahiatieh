@@ -1,4 +1,7 @@
 ### Hi there My Name is Atieh Sorahi Talab👋
+
+- 🌱 I’m currently learning Vue js
+- 👯 I’m looking to collaborate on Fullstack Developer(Vue.js / PHP)
 <!--
 const info={
 status: 202,
@@ -21,7 +24,7 @@ status: 202,
    <li>PHP</li>
    <li>MySQL</li>
 </ul> 
-- 🌱 I’m currently learning Vue js
+
 
 ## My Activity:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&theme=dracula)
