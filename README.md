@@ -1,6 +1,6 @@
 ### Hi there 👋 My Name is Atieh Sorahi Talab
 
-- 🌱 I’m currently learning Vue js
+
 -  👯 I’m looking to collaborate on Fullstack Developer(Vue.js / PHP)
 <!--
 const info={
@@ -23,6 +23,7 @@ status: 202,
    <li>Bootstrap</li>
    <li>PHP</li>
    <li>MySQL</li>
+  <li>Vuejs</li>
 </ul> 
 
 
@@ -38,7 +39,7 @@ status: 202,
 **sorahiatieh/sorahiatieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning Vue js
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
