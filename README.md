@@ -1,7 +1,7 @@
 ### Hi there 👋 My Name is Atieh Sorahi Talab
 
 
--  👯 I’m looking to collaborate on Fullstack Developer(Vue.js / PHP)
+  👯 I’m looking to collaborate on Fullstack Developer(Vue.js / PHP)
 <!--
 const info={
 status: 202,
