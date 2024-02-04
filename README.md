@@ -1,8 +1,7 @@
 
 <h2> Hi 🙋‍♀️ My name is Atieh Sorahi Talab </h2>
 
-- 🌍  I'm based in Tehran (Iran)
-- 🖥️  See my portfolio at [sorahitalab](http://sorahitalab.ir/)
+ 🖥️  See my portfolio at [sorahitalab](http://sorahitalab.ir/)
 
   
 ```php
