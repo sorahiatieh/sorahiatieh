@@ -1,8 +1,10 @@
 
 <h2> Hi 🙋‍♀️ My name is Atieh Sorahi Talab </h2>
+
 - 🌍  I'm based in Tehran (Iran)
 - 🖥️  See my portfolio at [sorahitalab](http://sorahitalab.ir/)
 - 👯 I’m looking to collaborate on Fullstack Developer(Vue.js / PHP)
+  
 <!--
 const info={
 status: 202,
