@@ -18,7 +18,7 @@
 ## My Activity:
 <p display="flex">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorahiatieh&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorahiatieh&hide_progress=true)
 
 </p>
 
