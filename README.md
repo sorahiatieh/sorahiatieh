@@ -16,6 +16,8 @@
 </div>
 
 ## My Activity:
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&theme=tokyonight&hide=prs)]
 <p display="flex">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorahiatieh&hide_progress=true)
