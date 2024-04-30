@@ -22,6 +22,22 @@
 
 </p>
 
+</br>
+</br>
+
+<div align="center">
+  <a href="http://www.instagram.com/missatisorahi/">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-ea4456.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/atieh-sorahi-talab-28971468/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:a.sorahitalab@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
  🖥️  See my portfolio at [sorahitalab](http://sorahitalab.ir/)
 
 
