@@ -29,9 +29,6 @@
 </br>
 </br>
 
-## My favorite  IDEs/Editors:
-
-❤ ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) 
 
 ## Social Media:
 
