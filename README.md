@@ -20,9 +20,7 @@
 
 <p display="flex">
 
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&theme=tokyonight&hide=prs)]
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorahiatieh&hide_progress=true)
+  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&theme=tokyonight&hide=prs)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorahiatieh&hide_progress=true)
 
 </p>
 
