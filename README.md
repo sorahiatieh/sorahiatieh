@@ -22,6 +22,7 @@
 
 ## My Activity:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sorahiatieh&label=Profile%20views&color=0e75b6&style=flat" alt="sorahiatieh" /> </p>
 
 <p display="flex">
 
