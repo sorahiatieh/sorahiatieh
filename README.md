@@ -29,9 +29,9 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sorahiatieh&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="sorahiatieh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorahiatieh4&theme=nightowl&hide_border=true" alt="sorahiatieh" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorahiatieh4&theme=nightowl&hide_border=true" alt="sorahiatieh" />
+</p>
 
 </br>
 </br>
