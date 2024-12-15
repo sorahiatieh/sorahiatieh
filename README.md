@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorahiatieh&theme=nightowl&hide_border=true" alt="sorahiatieh" /></p>
 
-<img align="center" alt="astronaut" width = "400" src ="https://68.media.tumblr.com/8eccd6f524464133624ca5e6278eed35/tumblr_olofpvO9651uc1snro1_500.gif">
+
 
 </br>
 </br>
