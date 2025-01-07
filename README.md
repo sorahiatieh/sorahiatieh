@@ -30,7 +30,7 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sorahiatieh&theme=nightowl&hide_border=true" alt="sorahiatieh" /></p>
+
 
 
 
